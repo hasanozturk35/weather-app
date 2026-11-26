@@ -1,0 +1,16 @@
+# Gizli anahtarlar
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör / sistem
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
