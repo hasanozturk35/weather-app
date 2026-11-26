@@ -12,7 +12,7 @@
 
 ## Kurulum
 
-Python 3.9 veya üstü gerekir.
+Python 3.10 veya üstü gerekir.
 
 ```bash
 git clone https://github.com/hasanozturk35/weather-app.git
